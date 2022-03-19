@@ -1,8 +1,6 @@
 <h1 align="center">Hello! You can call me Mike</h1>
 <h3 align="center">A Fullstack nerd</h3>
 
-![image](https://user-images.githubusercontent.com/11251303/159141560-95c8f1c3-a4c8-4e13-904a-54a3a663cefb.png)
-
 
 - 🌱 I’m currently learning **Testing with JEST**
 
