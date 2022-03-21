@@ -6,6 +6,7 @@
   <p>- 📄 Dê uma checada no meu currículo https://resume.io/r/BqE1QLA8z](https://resume.io/r/BqE1QLA8z) </p>
   <p>- 📄 Know about my experiences https://resume.io/r/wiMVOqJxt](https://resume.io/r/wiMVOqJxt) </p>
   <p>- ⚡ English level <b>Advanced / Native</b></p>
+  <p>- Formado em Game Design com uma pitada de Ciências da Computação (3 anos)</p>
   <h1></h1>
   <br>
   
