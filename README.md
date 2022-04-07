@@ -2,7 +2,7 @@
 
 
 <div style="display: inline_block">
-  <p><img align="right" alt="cat-pic" height="160em" style="border-radius:50px; float:right;" src="https://c.tenor.com/bQuWIFsZWEgAAAAd/thurston-waffles-meow.gif">- 🌱 No momento estou estudando testes de aplicações com Jest</p>
+  <p><img align="right" alt="cat-pic" height="160em" style="border-radius:50px; float:right;" src="https://c.tenor.com/bQuWIFsZWEgAAAAd/thurston-waffles-meow.gif">- 🌱 No momento estou participando do Imersão FullCycle do Wesley Willians</p>
   <p>- Formado em Game Design com uma pitada de Ciências da Computação (3 anos)</p>
   <p>- 📄 Dê uma checada no meu currículo https://resume.io/r/BqE1QLA8z </p>
   <p>- 📄 Know about my experiences https://resume.io/r/wiMVOqJxt </p>
