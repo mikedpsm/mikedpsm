@@ -4,8 +4,8 @@
 <div style="display: inline_block">
   <p><img align="right" alt="cat-pic" height="160em" style="border-radius:50px; float:right;" src="https://c.tenor.com/bQuWIFsZWEgAAAAd/thurston-waffles-meow.gif">- 🌱 No momento estou estudando TypeScript</p>
   <p>- Formado em Game Design com uma pitada de Ciências da Computação (3 anos)</p>
-  <p>- 📄 Dê uma checada no meu currículo: </p> https://www.encr.pw/8htn4
-  <p>- 📄 Check my resume: </p> https://www.encr.pw/Fy7eR
+  <p>- 📄 Dê uma checada no meu currículo: https://www.encr.pw/8htn4</p> 
+  <p>- 📄 Check my resume: https://www.encr.pw/Fy7eR</p> 
   <p>- ⚡ English level <b>Advanced / Native</b></p>
   <h1></h1>
   <br>
