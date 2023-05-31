@@ -7,7 +7,7 @@
   <p>- 📄 Dê uma checada no meu currículo: https://www.encr.pw/8htn4</p> 
   <p>- 📄 Check my resume: https://www.encr.pw/Fy7eR</p> 
   <p>- ⚡ English level <b>Advanced / Fluent</b></p>
-  <p>- 💻 Software Engineer at Trinity Marketing Services</p>
+  <p>- 💻 Software Engineer @</p>
   <h1></h1>
   <br>
   
