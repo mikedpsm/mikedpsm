@@ -4,8 +4,8 @@
 <div style="display: inline_block">
   <p><img align="right" alt="cat-pic" height="160em" style="border-radius:50px; float:right;" src="https://c.tenor.com/bQuWIFsZWEgAAAAd/thurston-waffles-meow.gif"></p>
   <p>- Passei pelas graduações de Game Design e Ciências da Computação (3 anos)</p>
-  <p>- 📄 Dê uma checada no meu currículo: https://www.encr.pw/8htn4</p> 
-  <p>- 📄 Check my resume: https://www.encr.pw/Fy7eR</p> 
+  <p>- 📄 Dê uma checada no meu currículo: https://encurtador.com.br/aglEH</p> 
+  <p>- 📄 Check my resume: https://encurtador.com.br/aglEH</p> 
   <p>- ⚡ English level <b>Advanced / Fluent</b></p>
   <p>- 💻 Software Engineer @</p>
   <h1></h1>
