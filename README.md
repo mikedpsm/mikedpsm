@@ -4,6 +4,8 @@
 <div style="display: inline_block">
   <p><img align="right" alt="cat-pic" height="160em" style="border-radius:50px; float:right;" src="https://c.tenor.com/bQuWIFsZWEgAAAAd/thurston-waffles-meow.gif"></p>
   <p>- Passei pelas graduações de Game Design e Ciências da Computação (3 anos)</p>
+  <p>- Certificado em Desenvolvimento de Software pela Cubos Academy </p>
+  <p>- Certificado em Clean Code & Clean Architecture pela branas.io </p>
   <p>- 📄 Dê uma checada no meu CV: https://drive.google.com/file/d/1qf9kv5Tbdl0_6AEz3Mi477ADblPMogD5/view?usp=drive_link</p> 
   <p>- ⚡ English level <b>Advanced / Fluent</b></p>
   <p>- 💻 Software Engineer @</p>
