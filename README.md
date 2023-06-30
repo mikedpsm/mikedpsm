@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! Chega mais! Eu sou o Maicon, engenheiro de software :)</h1><br>
+<h1 align="center">Hello there! Chega mais! Eu sou o Maicon, engenheiro de software</h1><br>
 <h2> Sim, estou buscando por job :) </h2>
 
 <div style="display: inline_block">
