@@ -6,7 +6,8 @@
   <p>- Passei pelas graduações de Game Design e Ciências da Computação (3 anos)</p>
   <p>- Certificado em Desenvolvimento de Software pela Cubos Academy </p>
   <p>- Certificado em Clean Code & Clean Architecture pela branas.io </p>
-  <p>- 📄 Dê uma checada no meu CV: https://drive.google.com/file/d/1cNosk1AxrrZZv2wp1zDdGq-Kc-GeFqW2/view?usp=sharing</p> 
+  <p>- 📄 Dê uma checada no meu CV: https://drive.google.com/file/d/1gaUQ0W3cTP32BXnTmw6OSEq4vNzTidhE/view?usp=drive_link</p> 
+  <p>- 📄 Check my CV: https://drive.google.com/file/d/1WnNhrvvadkr41g4qftAIryA7OEBLBwE1/view?usp=drive_link</p> 
   <p>- ⚡ English level <b>Advanced / Fluent</b></p>
   <p>- 💻 Software Engineer @</p>
   <h1></h1>
