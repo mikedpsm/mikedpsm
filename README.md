@@ -2,7 +2,7 @@
 
 - Game Design gratuation ✅
 - Computer Science graduation 🔁(sixth semester)
-- MBA em Arquitetura FullCycle 🔁(ongoing)
+- MBA in FullCycle Architecture 🔁(ongoing)
 - Fullstack Web Developer Certified by Cubos Academy
 - Clean Code & Clean Architecture Certified at branas.io
 - ⚡ English level: Advanced / Fluent
