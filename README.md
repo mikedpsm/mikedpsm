@@ -1,6 +1,6 @@
 💻 Software Engineer @ 
 
-- Gratuation in Game Design ✅
+- Game Design gratuation ✅
 - Computer Science graduation 🔁(sixth semester)
 - MBA em Arquitetura FullCycle 🔁(ongoing)
 - Fullstack Web Developer Certified by Cubos Academy
