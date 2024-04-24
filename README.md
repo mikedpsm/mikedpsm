@@ -1,17 +1,11 @@
-<h1 align="center">💻 Software Engineer @ </h1><br>
+💻 Software Engineer @ 
 
-<div style="display: inline_block">
-  <p><img align="right" alt="cat-pic" height="160em" style="border-radius:50px; float:right;" src="https://c.tenor.com/bQuWIFsZWEgAAAAd/thurston-waffles-meow.gif"></p>
-  <p>- Gratuation in Game Design ✅</p>
-  <p>- Computer Science graduation 🔁(sixth semester)</p>
-  <p>- MBA em Arquitetura FullCycle 🔁(ongoing)</p>
-  <p>- Fullstack Web Developer Certified by Cubos Academy </p>
-  <p>- Clean Code & Clean Architecture Certified at branas.io </p>
-  <p>- 📄 Check my CV: https://drive.google.com/file/d/1WnNhrvvadkr41g4qftAIryA7OEBLBwE1/view?usp=drive_link</p> 
-  <p>- ⚡ English level <b>Advanced / Fluent</b></p>
-  <br>
-  
-</div>
+- Gratuation in Game Design ✅
+- Computer Science graduation 🔁(sixth semester)
+- MBA em Arquitetura FullCycle 🔁(ongoing)
+- Fullstack Web Developer Certified by Cubos Academy
+- Clean Code & Clean Architecture Certified at branas.io
+- ⚡ English level: Advanced / Fluent
 
 <div align="center">
 <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikedpsm&layout=compact&langs_count=7&theme=dracula"/>
@@ -34,8 +28,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </p>
 </div>
-
-<br>
 
 <div align="center"> 
   <a href = "mailto:maicondpsm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
