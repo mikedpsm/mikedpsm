@@ -1,15 +1,15 @@
 💻 Software Engineer @ Massive Investimentos
 
 - Game Design gratuation ✅
+- Fullstack Web Developer Certified by Cubos Academy ✅
+- Clean Code & Clean Architecture Certified at branas.io ✅
 - Computer Science graduation 🔁(sixth semester)
 - MBA in FullCycle Architecture 🔁(ongoing)
-- Fullstack Web Developer Certified by Cubos Academy
-- Clean Code & Clean Architecture Certified at branas.io
 - ⚡ English level: Advanced / Fluent
 
-<div align="center">
-<img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikedpsm&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mikedpsm&layout=compact&langs_count=7&theme=dracula)
+
 
 
 
