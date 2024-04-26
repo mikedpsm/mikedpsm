@@ -5,6 +5,7 @@
 - Clean Code & Clean Architecture Certified at branas.io ✅
 - Computer Science graduation 🔁(sixth semester)
 - MBA in FullCycle Architecture 🔁(ongoing)
+- Certification in Project Management by Google 🔁
 - ⚡ English level: Advanced / Fluent
 
 
