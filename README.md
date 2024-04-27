@@ -21,10 +21,7 @@
 - ⚡ English level: **Advanced** / **Fluent**
 - I have intentions of learning: Go, API Gateway, Kafka, Keycloack and React Native in the near future, so if you have any interesting source of study for those technologies and you're willing to share it with me, I'll be super happy 🤩
 
-
 <br><br><br>
-
-
 
 <div align="center">
 
@@ -32,12 +29,10 @@
 
 </div>
 
-- Medium Articles I've posted:
-![PostgreSQL](https://medium.com/@mikedpsm/criando-um-banco-de-dados-com-postgresql-em-ambiente-linux-wsl-ubuntu-fbbe8c24ef77)
+- Medium Articles I've posted: <br>
+  - ![PostgreSQL](https://medium.com/@mikedpsm/criando-um-banco-de-dados-com-postgresql-em-ambiente-linux-wsl-ubuntu-fbbe8c24ef77)
 
 <br><br>
-
-
 
 <div align="center"> 
   <a href = "mailto:maicondpsm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
