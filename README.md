@@ -32,7 +32,8 @@
 
 </div>
 
-
+- Medium Articles I've posted:
+![PostgreSQL](https://medium.com/@mikedpsm/criando-um-banco-de-dados-com-postgresql-em-ambiente-linux-wsl-ubuntu-fbbe8c24ef77)
 
 <br><br>
 
