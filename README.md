@@ -1,8 +1,11 @@
 ### Back-end
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 ### Front-end
@@ -14,12 +17,23 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+### Principles & Architecture
+![SOLID](https://img.shields.io/badge/SOLID-000000?style=flat-square&logo=solid&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=flat-square&logo=clean-code&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-000000?style=flat-square&logo=tdd&logoColor=white)
+![DRY](https://img.shields.io/badge/DRY-000000?style=flat-square&logo=dry&logoColor=white)
+![KISS](https://img.shields.io/badge/KISS-000000?style=flat-square&logo=kiss&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=flat-square&logo=clean-architecture&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=microservices&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-000000?style=flat-square&logo=ddd&logoColor=white)
 
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Comunicação e APIs
+![gRPC](https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=grpc&logoColor=white)
+![REST](https://img.shields.io/badge/REST-000000?style=flat-square&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 💻 **Software Engineer @ Massive Investimentos**
 - **Game Design** gratuation ✅
