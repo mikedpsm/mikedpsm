@@ -1,3 +1,22 @@
+💻 **Software Engineer @ Massive Investimentos**
+- **Game Design** gratuation ✅
+- **Fullstack Web Developer** Certified by Cubos Academy ✅
+- **Clean Code & Clean Architecture** Certified by branas.io ✅
+- **Computer Science** graduation 🔁(sixth semester)
+- **MBA** in FullCycle Architecture 🔁(ongoing)
+- Certification in **Project Management** by Google 🔁
+- ⚡ English level: **Advanced** / **Fluent**
+- I have intentions of learning: Go, API Gateway, Kafka, Keycloack and React Native in the near future, so if you have any interesting source of study for those technologies and you're willing to share it with me, I'll be super happy 🤩
+
+<br><br>
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mikedpsm&layout=compact&langs_count=7&theme=dracula)
+
+</div>
+
+
 ### Back-end
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
@@ -17,6 +36,21 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### OS
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-0076BE?style=flat-square&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
 ### Principles & Architecture
 ![SOLID](https://img.shields.io/badge/SOLID-000000?style=flat-square&logo=solid&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=flat-square&logo=clean-code&logoColor=white)
@@ -27,38 +61,23 @@
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=microservices&logoColor=white)
 ![DDD](https://img.shields.io/badge/DDD-000000?style=flat-square&logo=ddd&logoColor=white)
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
 ### Comunicação e APIs
 ![gRPC](https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=grpc&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-000000?style=flat-square&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-💻 **Software Engineer @ Massive Investimentos**
-- **Game Design** gratuation ✅
-- **Fullstack Web Developer** Certified by Cubos Academy ✅
-- **Clean Code & Clean Architecture** Certified by branas.io ✅
-- **Computer Science** graduation 🔁(sixth semester)
-- **MBA** in FullCycle Architecture 🔁(ongoing)
-- Certification in **Project Management** by Google 🔁
-- ⚡ English level: **Advanced** / **Fluent**
-- I have intentions of learning: Go, API Gateway, Kafka, Keycloack and React Native in the near future, so if you have any interesting source of study for those technologies and you're willing to share it with me, I'll be super happy 🤩
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-<br><br><br>
+<br>
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mikedpsm&layout=compact&langs_count=7&theme=dracula)
-
-</div>
-
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) <br>
+Meus artigos no Medium <br>
   - [PostgreSQL](https://medium.com/@mikedpsm/criando-um-banco-de-dados-com-postgresql-em-ambiente-linux-wsl-ubuntu-fbbe8c24ef77)
 
 <br><br>
 
 <div align="center"> 
+  <a href = "https://medium.com/@mikedpsm"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href = "mailto:maicondpsm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mikedpsm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
