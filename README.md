@@ -3,8 +3,7 @@
 - **Fullstack Web Developer** Certified by Cubos Academy ✅
 - **Clean Code & Clean Architecture** Certified by branas.io ✅
 - **Computer Science** graduation 🔁(sixth semester)
-- **MBA** in FullCycle Architecture 🔁(ongoing)
-- Certification in **Project Management** by Google 🔁
+- **MBA** in Full Cycle Architecture 🔁(ongoing)
 - ⚡ English level: **Advanced** / **Fluent**
 - I have intentions of learning: Go, API Gateway, Kafka, Keycloack and React Native in the near future, so if you have any interesting source of study for those technologies and you're willing to share it with me, I'll be super happy 🤩
 
