@@ -2,10 +2,10 @@
 - **Game Design** gratuation ✅
 - **Fullstack Web Developer** Certified by Cubos Academy ✅
 - **Clean Code & Clean Architecture** Certified by branas.io ✅
-- **Computer Science** graduation 🔁(sixth semester)
+- **Computer Science** graduation 🔁(seventh semester)
 - **MBA** in Full Cycle Architecture 🔁(ongoing)
 - ⚡ English level: **Advanced** / **Fluent**
-- I have intentions of learning: Go, API Gateway, Kafka, Keycloak and Flutter in the near future, so if you have any interesting source of study for those technologies and you're willing to share it with me, I'll be super happy 🤩
+- I have intentions of learning: Go, API Gateway, Kafka and Keycloak in the near future, so if you have any interesting source of study for those technologies and you're willing to share it with me, I'll be super happy 🤩
 
 <br><br>
 
