@@ -1,12 +1,11 @@
-💻 **Software Engineer @ Massive Investimentos**
-💡 **Product Manager Intern @ RD Saúde**
+💻 **Back end developer @ RD Saúde**
 - **Game Design** gratuation ✅
 - **Fullstack Web Developer** Certified by Cubos Academy ✅
 - **Clean Code & Clean Architecture** Certified by branas.io ✅
-- **Computer Science** graduation 🔁(seventh semester)
+- **Computer Science** graduation 🔁(last semester)
 - **MBA** in Full Cycle Architecture 🔁(ongoing)
 - ⚡ English level: **Advanced** / **Fluent**
-- I have intentions of learning: Go, API Gateway, Kafka and Keycloak in the near future, so if you have any interesting source of study for those technologies and you're willing to share it with me, I'll be super happy 🤩
+- I have intentions of learning: Go, API Gateway, Kafka and Keycloak in the near future, so if you have any interesting source of study for those technologies and you're willing to share it with me, I'll be super glad 🤩
 
 <br><br>
 
