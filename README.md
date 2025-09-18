@@ -1,10 +1,11 @@
-💻 **Back end developer @ RD Saúde**
+💻 **Back end developer @ Avanade**
 - **Game Design** gratuation complete ✅
+- **Computer Science** graduation complete ✅
 - **Fullstack Web Developer** Certified by Cubos Academy ✅
 - **Clean Code & Clean Architecture** Certified by branas.io ✅
-- **Computer Science** graduation 🔁(last semester)
 - **MBA** in Full Cycle Architecture 🔁(ongoing)
-- ⚡ English level: **Advanced** / **Fluent**
+- **MBA** in Software Engineering with AI 🔁(ongoing)
+- ⚡ English level: **C2 Fluent**
 <br><br>
 
 <div align="center">
