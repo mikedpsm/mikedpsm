@@ -8,13 +8,6 @@
 - ⚡ English level: **C2 Fluent**
 <br><br>
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mikedpsm&layout=compact&langs_count=7&theme=dracula)
-
-</div>
-
-
 ### Back-end
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
