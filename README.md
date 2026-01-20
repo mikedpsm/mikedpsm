@@ -3,9 +3,8 @@
 - **Computer Science** graduation complete ✅
 - **Fullstack Web Developer** Certified by Cubos Academy ✅
 - **Clean Code & Clean Architecture** Certified by branas.io ✅
-- **MBA** in Full Cycle Architecture 🔁(ongoing)
-- **MBA** in Software Engineering with AI 🔁(ongoing)
-- ⚡ English level: **C2 Fluent**
+- **MBA** in Full Cycle Architecture ✅
+- ⚡ English level: **C1**
 <br><br>
 
 ### Back-end
@@ -27,7 +26,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
